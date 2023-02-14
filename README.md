@@ -4,3 +4,4 @@ just code and say "cien fleur". I had been trying to handle the snake profession
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komarr007)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komarr007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=komarr007)](https://github.com/ryo-ma/github-profile-trophy)
